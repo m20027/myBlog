@@ -6,7 +6,7 @@ lang: "ja"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
-baseurl: "myBlog"
+baseurl: "/myBlog"
 url: "m20027.github.io"
 
 # Layout
@@ -16,10 +16,7 @@ show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
-paginate: 5
-paginate_path: /page/:num/
-
-#show_frame: "/assets/images/background.svg"
+# show_frame: "/assets/images/background.svg"
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 

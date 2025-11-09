@@ -33,5 +33,7 @@ comments:
 #  disqus_shortname: ""         # see https://disqus.com
 #  isso_domain: ""              # see https://isso-comments.de
 
+mathjax: true
+
 plugins:
  - jekyll-feed

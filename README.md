@@ -13,10 +13,6 @@ layout: page
    Tokyo Metropolitan University
 </div>
 
-[![Articles](https://badgen.org/img/qiita/m20027/articles?style=plastic)](https://qiita.com/m20027) 
-[![Followers](https://badgen.org/img/qiita/m20027/followers?style=plastic)](https://qiita.com/m20027)
-[![Github](https://img.shields.io/github/followers/m20027?label=Follow&style=social)](https://github.com/m20027)
-
 
 # Biography
 Kazuaki Ohyama was born in Chiba, Japan in 2004.
@@ -79,16 +75,6 @@ Tips：研究に関する説明をする際に文章がつい長くなりがち�
 
 ## Keywords
 
-## Previous
-Spectrum resource shortages are expected due to the high capacity and speed of communication for extreme coverage in Beyond 5G.
-Meanwhile, allocating efficient, adaptive operations and ensuring new spectrum opportunities cannot be achieved owing to static and exclusive conventional spectrum management.
-To address this problem, dynamic spectrum access (DSA) has been proposed and DSA can perform varied spectrum control via spectrum sensing.
-However, expanding the DSA application area is difficult since wide area and real-time spectrum recognition cannot be obtained using conventional spectrum estimation methods.
-We proposed a new spectrum sensing by Low Earth Orbit (LEO) satellite constellation, placing the same satellites in a straight track based on Synthetic Aperture Radar (SAR) processing for spacial resolution improvement ([See more](https://ken.ieice.org/ken/paper/20250306bciD/)).
-
-### Keywords
-Wireless Communication, Distributed Wireless Network, Resource Management, Spectrum Sharing, Spectrum Sensing, Beyond 5G, NTN, Satellite Constellation  
-
 # Academic Society
 - IEICE Junior Member
 
@@ -140,10 +126,7 @@ Wireless Communication, Distributed Wireless Network, Resource Management, Spect
 
 
 # Contact Information
-- Email: 
+- Email: TBD
 - Office: None
 - TEL: None
-
-<!---m20027/m20027 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.--->
 

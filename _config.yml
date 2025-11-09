@@ -24,6 +24,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", sidebaricon: user-circle}
   - {file: "archive.html", sidebaricon: home}
   - {file: "tips.html", sidebaricon: lightbulb}
+  - {file: "url.md", sidebaricon: blog}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Github, icon: github, url: "https://github.com/m20027"}

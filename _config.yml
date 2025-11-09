@@ -37,3 +37,7 @@ mathjax: true
 
 plugins:
  - jekyll-feed
+
+
+algolia:
+  application_id: 'myBlog'

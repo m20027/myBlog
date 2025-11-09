@@ -10,10 +10,9 @@ baseurl: "/myBlog"
 url: "m20027.github.io"
 
 # Layout
-
 show_excerpts: true             # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
-show_sidebar: false             # show a sidebar instead of the usual header
+show_sidebar: true             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
 
 # show_frame: "/assets/images/background.svg"
@@ -21,23 +20,17 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html", sidebaricon: home}
+  - {file: "README.md", sidebaricon: user-circle}
   - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "tips.html", sidebaricon: lightbulb}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  # - {title: Mail, icon: envelope, url: ""}
   - {title: Github, icon: github, url: "https://github.com/m20027"}
+  - {title: Apple, icon: apple, url: "https://www.apple.com/jp/"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
-comments:
-#  disqus_shortname: ""         # see https://disqus.com
-#  isso_domain: ""              # see https://isso-comments.de
 
 mathjax: true
 
 plugins:
  - jekyll-feed
-
-
-algolia:
-  application_id: 'myBlog'

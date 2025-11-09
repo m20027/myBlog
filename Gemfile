@@ -6,5 +6,4 @@ gem 'searchyll'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"
-  gem 'jekyll-algolia', '~> 1.0'
 end

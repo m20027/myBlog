@@ -4,11 +4,12 @@ layout: page
 ---
 
 新規タブで開かないので注意
-1. [Common and Less Common Magnets and Metals][magnets_metals]
-2. 
+1. [Common and Less Common Magnets and Metals][magnets_metals]{:target="_blank"}
+2. [物理とか][Physics_andSon]{:target="_blank"}
 
 
 [magnets_metals]: https://berman-shoenberg.blogspot.com/
+[Physics_andSon]: https://whyitsso.net/index.html
 
 <body>
 <p>更新日: <time id="modified_date"></time></p>
